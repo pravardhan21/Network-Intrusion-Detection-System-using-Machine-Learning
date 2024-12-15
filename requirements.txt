@@ -1,0 +1,5 @@
+scapy
+pandas
+streamlit
+nest_asyncio
+scikit-learn
